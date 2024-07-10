@@ -1,4 +1,4 @@
-# Steganography: Hiding an image inside another
+# Steganography: Hiding a text inside an image
 
 ## Usage
 
